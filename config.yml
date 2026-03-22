@@ -62,18 +62,6 @@ socials:
       title: "QQ 音樂"
       alt: "QQ 音樂"
       target: "_blank"
-   - social:
-      icon: "fa-brands fa-youtube"
-      url: "https://www.youtube.com/zooeywonder"
-      title: "YouTube"
-      alt: "YouTube"
-      target: "_blank"
-  - social:
-      icon: "fa-brands fa-instagram"
-      url: "https://www.instagram.com/zooeywonder/"
-      title: "Instagram"
-      alt: "Instagram"
-      target: "_blank"
   - social:
       icon: "fa-brands fa-weibo"
       url: "https://www.instagram.com/zooeywonder/"
