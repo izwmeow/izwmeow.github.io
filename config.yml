@@ -57,22 +57,40 @@ socials:
       alt: "網易雲音樂"
       target: "_blank"
   - social:
-      icon: "fa-brands fa-music"
+      icon: "fa-solid fa-music"
       url: "https://y.qq.com/n/ryqq_v2/singer/004ZyKRb1xYlav"
       title: "QQ 音樂"
       alt: "QQ 音樂"
       target: "_blank"
-  - social:
-      icon: "fa-brands fa-instagram"
-      url: "https://www.instagram.com/zhgchgli/"
-      title: "Instagram"
-      alt: "ZhgChgLi's Instagram"
+   - social:
+      icon: "fa-brands fa-youtube"
+      url: "https://www.youtube.com/zooeywonder"
+      title: "YouTube"
+      alt: "YouTube"
       target: "_blank"
   - social:
-      icon: "fa-solid fa-envelope"
-      url: "mailto:zhgchgli@gmail.com"
-      title: "Email: zhgchgli@gmail.com"
-      alt: "zhgchgli@gmail.com"
+      icon: "fa-brands fa-instagram"
+      url: "https://www.instagram.com/zooeywonder/"
+      title: "Instagram"
+      alt: "Instagram"
+      target: "_blank"
+  - social:
+      icon: "fa-brands fa-weibo"
+      url: "https://www.instagram.com/zooeywonder/"
+      title: "微博"
+      alt: "微博"
+      target: "_blank"
+  - social:
+      icon: "fa-brands fa-weibo"
+      url: "https://xhslink.com/m/huXHRzPjfF"
+      title: "小紅書"
+      alt: "小紅書"
+      target: "_blank"
+  - social:
+      icon: "fa-brands fa-tiktok"
+      url: "https://v.douyin.com/g2fycWlccXY/"
+      title: "抖音"
+      alt: "抖音"
       target: "_blank"
 
 # List of links
