@@ -1,7 +1,7 @@
 # Site Configuration
 
 # Theme, mapped to the directory: ./theme/xxxx
-theme: default
+theme: mytheme
 
 # HTML Language setting
 lang: "en"
@@ -39,10 +39,10 @@ tagline: >-
 # target: _blank opens in a new tab, _self opens in the same frame
 socials:
   - social:
-      icon: "fa-brands fa-medium"
-      url: "https://blog.zhgchg.li"
-      title: "ZhgChgLi's Medium"
-      alt: "ZhgChgLi's Medium"
+      icon: "fa-brands fa-spotify"
+      url: "https://open.spotify.com/artist/6VI0p0xTjBKKxQN8i8vGpD"
+      title: "Spotify"
+      alt: "Spotify"
       target: "_blank"
   - social:
       icon: "fa-brands fa-github"
