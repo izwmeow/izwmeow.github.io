@@ -19,6 +19,24 @@ name: "@ZooeyWonder"
 tagline: >-
     Singer-songwriter.
 
+# List of links
+# icon: Use Font Awesome icons (https://fontawesome.com/search?o=r&m=free)
+# text: The displayed text for the link
+# title: The url title
+# url: The URL of the link
+# alt: Alternative text for accessibility
+# target: `_blank` opens in a new tab, `_self` opens in the same frame
+links:
+  - link:
+      icon: "fa-brands fa-spotify"
+      text: "Spotify"
+      url: "https://open.spotify.com/artist/6VI0p0xTjBKKxQN8i8vGpD"
+      alt: "Spotify"
+      title: "Spotify"
+      target: "_blank"
+
+
+
 # List of social media links
 # icon: Use Font Awesome icons (https://fontawesome.com/search?o=r&m=free)
 # title: The url title
@@ -62,23 +80,6 @@ socials:
       title: "Email: zhgchgli@gmail.com"
       alt: "zhgchgli@gmail.com"
       target: "_blank"
-
-# List of links
-# icon: Use Font Awesome icons (https://fontawesome.com/search?o=r&m=free)
-# text: The displayed text for the link
-# title: The url title
-# url: The URL of the link
-# alt: Alternative text for accessibility
-# target: `_blank` opens in a new tab, `_self` opens in the same frame
-links:
-  - link:
-      icon: "fa-brands fa-spotify"
-      text: "Spotify"
-      url: "https://open.spotify.com/artist/6VI0p0xTjBKKxQN8i8vGpD"
-      alt: "Spotify"
-      title: "Spotify"
-      target: "_blank"
-
 
 
 # Footer text
