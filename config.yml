@@ -57,10 +57,10 @@ socials:
       alt: "網易雲音樂"
       target: "_blank"
   - social:
-      icon: "fa-brands fa-linkedin"
-      url: "https://www.linkedin.com/in/zhgchgli/"
-      title: "ZhgChgLi's LinkedIn"
-      alt: "ZhgChgLi's LinkedIn"
+      icon: "fa-brands fa-music"
+      url: "https://y.qq.com/n/ryqq_v2/singer/004ZyKRb1xYlav"
+      title: "QQ 音樂"
+      alt: "QQ 音樂"
       target: "_blank"
   - social:
       icon: "fa-brands fa-instagram"
