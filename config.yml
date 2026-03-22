@@ -6,6 +6,18 @@ theme: default
 # HTML Language setting
 lang: "en"
 
+# Plugins, implemented in ./plugins/PLUGIN_NAME
+# Use {{ vars.PLUGIN_NAME }} in the settings below
+
+# The output of the plugin can be used below, e.g., {{vars.GithubRepoStarsCountPlugin}}
+plugins:
+  # Automatically fetch Github repo star count
+  - GithubRepoStarsCountPlugin:
+      - izwmeow/izwmeow.github.io
+
+# Google Analytics tracking id
+google_analytics_id:
+
 # HTML Title
 title: "ZooeyWonder | Links"
 
@@ -84,7 +96,7 @@ socials:
 
 # Footer text
 footer: >
-    Hi there! Follow me on Medium or GitHub, or stay connected on Instagram or LinkedIn.
+    
 
 # Footer copyright message
 # Linkyee is a 100% free, open-source project—feel free to modify the copyright message as you like. :)
