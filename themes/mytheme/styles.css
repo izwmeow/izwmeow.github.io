@@ -64,8 +64,8 @@ a {
   display: inline-flex;
   align-items: center;
   gap: 0px;
-  background-color: #b4b7f0;
-  box-shadow: 4px 6px 4px rgba(86, 71, 115, 0.773)
+  background-color: #a7aae4;
+  box-shadow: 4px 6px 4px rgba(86, 71, 115, 0.773);
   color: rgb(255, 255, 255);
   padding: 15px;
   border-radius: 8px;
@@ -94,7 +94,7 @@ a {
 
 .button-group {
   display: flex;
-  gap: 8px;
+  gap: 6px;
   margin-top: 10px;
   margin-bottom: 10px;
 }
