@@ -63,6 +63,18 @@ socials:
       alt: "QQ 音樂"
       target: "_blank"
   - social:
+      icon: "fa-brands fa-youtube"
+      url: "https://www.youtube.com/zooeywonder"
+      title: "YouTube"
+      alt: "YouTube"
+      target: "_blank"
+  - social:
+      icon: "fa-brands fa-instagram"
+      url: "https://www.instagram.com/zooeywonder/"
+      title: "Instagram"
+      alt: "Instagram"
+      target: "_blank"
+  - social:
       icon: "fa-brands fa-weibo"
       url: "https://www.instagram.com/zooeywonder/"
       title: "微博"
@@ -91,10 +103,10 @@ socials:
 links:
   - link:
       icon: "fa-brands fa-medium"
-      text: "Tech Blog <span class='link-button-text'>(100+ Posts)</span>"
-      url: "https://blog.zhgchg.li"
-      alt: "ZhgChgLi's Tech Blog"
-      title: "ZhgChgLi's Tech Blog"
+      text: "〈順流〉Single Release"
+      url: "https://music.163.com/#/song?id=3358156395"
+      alt: "〈順流〉新歌上線"
+      title: "〈順流〉新歌上線"
       target: "_blank"
   - link:
       icon: "fa-brands fa-medium"
