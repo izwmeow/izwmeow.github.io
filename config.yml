@@ -51,7 +51,7 @@ socials:
       alt: "Apple Music"
       target: "_blank"
   - social:
-      icon: "./icons/netease.png"
+      img: "./icons/netease.png"
       url: "https://music.163.com/artist?id=976095"
       title: "網易雲音樂"
       alt: "網易雲音樂"
@@ -61,12 +61,6 @@ socials:
       url: "https://y.qq.com/n/ryqq_v2/singer/004ZyKRb1xYlav"
       title: "QQ 音樂"
       alt: "QQ 音樂"
-      target: "_blank"
-  - social:
-      icon: "fa-brands fa-youtube"
-      url: "https://www.youtube.com/zooeywonder"
-      title: "YouTube"
-      alt: "YouTube"
       target: "_blank"
   - social:
       icon: "fa-brands fa-instagram"
