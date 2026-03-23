@@ -51,8 +51,8 @@ socials:
       alt: "Apple Music"
       target: "_blank"
   - social:
-      icon: "./icons/netease.png"
-      url: "https://music.163.com/#/artist?id=976095"
+      icon-img: "./icons/netease.png"
+      url: "https://music.163.com/artist?id=976095"
       title: "網易雲音樂"
       alt: "網易雲音樂"
       target: "_blank"
@@ -110,10 +110,10 @@ links:
       target: "_blank"
   - link:
       icon: "fa-brands fa-medium"
-      text: "Travelog <span class='link-button-text'>(10+ Posts)</span>"
-      url: "https://medium.com/ztravel"
-      alt: "ZhgChgLi's Travelog"
-      title: "ZhgChgLi's Travelog"
+      text: "〈i 人情歌〉Music Video"
+      url: "https://www.bilibili.com/video/BV1A9ShBHEWk"
+      alt: "〈i 人情歌〉Music Video"
+      title: "〈i 人情歌〉Music Video"
       target: "_blank"
   - link:
       icon: "fa-solid fa-rss"
