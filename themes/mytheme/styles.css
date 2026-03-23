@@ -3,12 +3,13 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  justify-content: center;
   font-family: "Noto Sans TC", sans-serif;
 }
 
 /* Light mode (default) */
 body {
-  background: linear-gradient(180deg, #877ab4 0%, #9f93ca 55%, #b9a4d7 100%);
+  background: linear-gradient(180deg, #8d7ec1 0%, #c3b8ea 35%, #e0c8f8 65%, #e3d4f8 100%);
   color: #efe6f7;
   display: flex;
   align-items: center;
@@ -62,10 +63,9 @@ a {
 .link-button {
   display: inline-flex;
   align-items: center;
-  justify-content: center;
   gap: 0px;
   background-color: #b4b7f0;
-  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+  box-shadow: 4px 6px 4px rgba(86, 71, 115, 0.773)
   color: rgb(255, 255, 255);
   padding: 15px;
   border-radius: 8px;
