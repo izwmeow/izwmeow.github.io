@@ -3,13 +3,12 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  justify-content: center;
-  font-family: "Noto-sans TC", sans-serif;
+  font-family: "Noto Sans TC", sans-serif;
 }
 
 /* Light mode (default) */
 body {
-  background-color: #9f93ca;
+  background: linear-gradient(180deg, #877ab4 0%, #9f93ca 55%, #b9a4d7 100%);
   color: #efe6f7;
   display: flex;
   align-items: center;
@@ -37,7 +36,7 @@ a {
   object-fit: cover;
   margin-top: 35px;
   margin-bottom: 0px;
-  border: 0px solid black;
+  border: 2px solid #efe6f7;
 }
 
 .name {
@@ -63,7 +62,8 @@ a {
 .link-button {
   display: inline-flex;
   align-items: center;
-  gap: 10px;
+  justify-content: center;
+  gap: 0px;
   background-color: #b4b7f0;
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
   color: rgb(255, 255, 255);
