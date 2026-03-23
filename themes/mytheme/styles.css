@@ -9,7 +9,7 @@
 
 /* Light mode (default) */
 body {
-  background-color: linear-gradient(180deg, #877ab4 0%, #9f93ca 65%, #e3d1fc 100%);
+  background: linear-gradient(180deg, #877ab4 0%, #9f93ca 65%, #e3d1fc 100%);
   color: #efe6f7;
   display: flex;
   align-items: center;
