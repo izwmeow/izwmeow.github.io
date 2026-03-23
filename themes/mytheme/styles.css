@@ -3,13 +3,14 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Noto Sans TC", "PingFang TC", sans-serif;
+  justify-content: center;
+  font-family: "Noto-sans TC", "PingFang TC", sans-serif;
 }
 
 /* Light mode (default) */
 body {
   background-color: #ffffff;
-  color: #000000;
+  color: #d4b8e1;
   display: flex;
   align-items: center;
   min-height: 100vh;
@@ -49,7 +50,7 @@ a {
   font-size: 16px;
   margin-bottom: 0px;
   line-height: 1.6;
-  color: #555;
+  color: #fdf9f9;
 }
 
 .links {
@@ -63,8 +64,8 @@ a {
   display: inline-flex;
   align-items: center;
   gap: 10px;
-  background-color: #f0f0f0;
-  color: black;
+  background-color: #9f85c1;
+  color: rgb(255, 255, 255);
   padding: 15px;
   border-radius: 8px;
   font-size: 16px;
@@ -73,14 +74,14 @@ a {
 }
 
 .link-button:hover {
-  background-color: #e0e0e0;
+  background-color: #b69cd7;
   transform: scale(1.05);
 }
 
 .footer {
   margin-top: 40px;
   font-size: 14px;
-  color: #777;
+  color: #ffffff;
 }
 
 .button-container {
@@ -105,7 +106,7 @@ a {
   cursor: pointer;
   transition: transform 0.2s;
   background: none;
-  color: black;
+  color: rgb(255, 255, 255);
 }
 
 .icon-button i {
@@ -114,7 +115,7 @@ a {
 
 .icon-button:hover {
   transform: scale(1.1);
-  color: #666;
+  color: #e0e0e0;
 }
 
 .icon-button:active {
@@ -122,9 +123,8 @@ a {
 }
 
 .link-button-text {
-  text-align: center;
   font-size: 14px;
-  color: #777;
+  color: #ffffff;
 }
 
 .copyright {
