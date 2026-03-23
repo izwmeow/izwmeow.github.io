@@ -107,7 +107,7 @@ a {
   cursor: pointer;
   transition: transform 0.2s;
   background: none;
-  color: rgb(255, 255, 255);
+  color: #efe6f7;
 }
 
 .icon-button i {
