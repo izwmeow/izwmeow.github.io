@@ -13,7 +13,7 @@ lang: "en"
 plugins:
   # Automatically fetch Github repo star count
   - GithubRepoStarsCountPlugin:
-      - izwmeow/izwmeow.github.io
+      - 
 
 # Google Analytics tracking id
 google_analytics_id:
@@ -39,40 +39,40 @@ tagline: >-
 # target: _blank opens in a new tab, _self opens in the same frame
 socials:
   - social:
+      icon: "fa-brands fa-spotify"
+      url: "https://open.spotify.com/artist/6VI0p0xTjBKKxQN8i8vGpD"
+      title: "Spotify"
+      alt: "Spotify"
+      target: "_blank"
+  - social:
       icon: "fa-brands fa-itunes"
       url: "https://music.apple.com/artist/zooey-wonder/820820884"
       title: "Apple Music"
       alt: "Apple Music"
       target: "_blank"
   - social:
-      icon: "fa-solid fa-cloud"
-      url: "https://music.163.com/artist?id=976095"
-      title: "網易雲音樂"
-      alt: "網易雲音樂"
-      target: "_blank"
-  - social:
-      icon: "fa-solid fa-music"
-      url: "https://y.qq.com/n/ryqq_v2/singer/004ZyKRb1xYlav"
-      title: "QQ 音樂"
-      alt: "QQ 音樂"
+      icon: "fa-brands fa-youtube"
+      url: "https://www.youtube.com/zooeywonder"
+      title: "YouTube"
+      alt: "YouTube"
       target: "_blank"
   - social:
       icon: "fa-brands fa-instagram"
       url: "https://www.instagram.com/zooeywonder/"
-      title: "StreetVoice"
-      alt: "StreetVoice"
+      title: "Instagram"
+      alt: "Instagram"
+      target: "_blank"
+  - social:
+      icon: "fa-brands fa-facebook"
+      url: "https://www.facebook.com/ZooeyWonder"
+      title: "Facebook"
+      alt: "Facebook"
       target: "_blank"
   - social:
       icon: "fa-brands fa-weibo"
       url: "https://www.instagram.com/zooeywonder/"
       title: "微博"
       alt: "微博"
-      target: "_blank"
-  - social:
-      icon: "fa-solid fa-book"
-      url: "https://xhslink.com/m/huXHRzPjfF"
-      title: "小紅書"
-      alt: "小紅書"
       target: "_blank"
   - social:
       icon: "fa-brands fa-tiktok"
@@ -116,20 +116,6 @@ links:
       url: "https://www.5music.com.tw/CDList-C.asp?cdno=443405678885"
       alt: "五大唱片"
       title: "五大唱片"
-      target: "_blank"
-  - link:
-      icon: ""
-      text: "誠品"
-      url: "https://www.eslite.com/product/1003123082682146120002"
-      alt: "誠品"
-      title: "誠品"
-      target: "_blank"
-  - link:
-      icon: ""
-      text: "博客來"
-      url: "https://www.books.com.tw/products/0020225822"
-      alt: "博客來"
-      title: "博客來"
       target: "_blank"
   - link:
       icon: ""
