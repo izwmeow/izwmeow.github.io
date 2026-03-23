@@ -3,7 +3,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: Noto-sans TC;
+  font-family: Noto-sans TC, Noto-sans;
 }
 
 /* Light mode (default) */
@@ -61,7 +61,6 @@ a {
 
 .link-button {
   display: inline-flex;
-  justify-content: center;
   align-items: center;
   gap: 10px;
   background-color: #f0f0f0;
@@ -123,6 +122,7 @@ a {
 }
 
 .link-button-text {
+  justify-content;: center
   font-size: 14px;
   color: #777;
 }
