@@ -104,7 +104,7 @@ a {
 
 .button-group {
   display: flex;
-  gap: 6px;
+  gap: 5px;
   margin-top: 10px;
   margin-bottom: 10px;
 }
@@ -174,7 +174,7 @@ a {
   }
 
   .icon-button {
-    color: #b4c1f0;
+    color: #efe6f7;
   }
 
   .footer {
