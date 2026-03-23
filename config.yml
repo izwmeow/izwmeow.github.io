@@ -39,12 +39,6 @@ tagline: >-
 # target: _blank opens in a new tab, _self opens in the same frame
 socials:
   - social:
-      icon: "fa-brands fa-spotify"
-      url: "https://open.spotify.com/artist/6VI0p0xTjBKKxQN8i8vGpD"
-      title: "Spotify"
-      alt: "Spotify"
-      target: "_blank"
-  - social:
       icon: "fa-brands fa-itunes"
       url: "https://music.apple.com/artist/zooey-wonder/820820884"
       title: "Apple Music"
@@ -57,7 +51,7 @@ socials:
       alt: "網易雲音樂"
       target: "_blank"
   - social:
-      icon: "fa-solid fa-music"
+      icon: "fa-solid fa-music-note"
       url: "https://y.qq.com/n/ryqq_v2/singer/004ZyKRb1xYlav"
       title: "QQ 音樂"
       alt: "QQ 音樂"
@@ -65,8 +59,8 @@ socials:
   - social:
       icon: "fa-brands fa-instagram"
       url: "https://www.instagram.com/zooeywonder/"
-      title: "Instagram"
-      alt: "Instagram"
+      title: "StreetVoice"
+      alt: "StreetVoice"
       target: "_blank"
   - social:
       icon: "fa-brands fa-weibo"
@@ -75,7 +69,7 @@ socials:
       alt: "微博"
       target: "_blank"
   - social:
-      icon: "fa-brands fa-weibo"
+      icon: "fa-solid fa-book"
       url: "https://xhslink.com/m/huXHRzPjfF"
       title: "小紅書"
       alt: "小紅書"
@@ -96,53 +90,53 @@ socials:
 # target: `_blank` opens in a new tab, `_self` opens in the same frame
 links:
   - link:
-      icon: "fa-brands fa-medium"
+      icon: ""
       text: "〈順流〉Single Release"
       url: "https://music.163.com/#/song?id=3358156395"
       alt: "〈順流〉新歌上線"
       title: "〈順流〉新歌上線"
       target: "_blank"
   - link:
-      icon: "fa-brands fa-medium"
+      icon: ""
       text: "〈i 人情歌〉Music Video"
       url: "https://www.bilibili.com/video/BV1A9ShBHEWk"
       alt: "〈i 人情歌〉Music Video"
       title: "〈i 人情歌〉Music Video"
       target: "_blank"
   - link:
-      icon: "fa-solid fa-rss"
-      text: "Website"
-      url: "https://zhgchg.li/"
-      alt: "ZhgChgLi's Website"
-      title: "ZhgChgLi's Website"
+      icon: "fa-brands fa-spotify"
+      text: "Spotify"
+      url: "https://open.spotify.com/artist/6VI0p0xTjBKKxQN8i8vGpD"
+      alt: "Spotify"
+      title: "Spotify"
       target: "_blank"
   - link:
-      icon: "fa-brands fa-swift"
-      text: "ZMarkupParser <span class='link-button-text'>({{vars.GithubRepoStarsCountPlugin['ZhgChgLi/ZMarkupParser']}} Stars)</span>"
-      url: "https://github.com/ZhgChgLi/ZMarkupParser"
-      alt: "ZMarkupParser is a pure-Swift library that helps you to convert HTML strings to NSAttributedString with customized style and tags."
-      title: "ZMarkupParser is a pure-Swift library that helps you to convert HTML strings to NSAttributedString with customized style and tags."
+      icon: "fa-brands fa-itunes"
+      text: "Apple Music"
+      url: "https://music.apple.com/artist/zooey-wonder/820820884"
+      alt: "Apple Music"
+      title: "Apple Music"
       target: "_blank"
   - link:
-      icon: "fa-brands fa-app-store-ios"
-      text: "ZReviewTender <span class='link-button-text'>({{vars.GithubRepoStarsCountPlugin['ZhgChgLi/ZReviewTender']}} Stars)</span>"
+      icon: ""
+      text: "網易雲音樂"
       url: "https://github.com/ZhgChgLi/ZReviewTender"
-      alt: "ZReviewTender is a tool for fetching app reviews from the App Store and Google Play Console and integrating them into your workflow."
-      title: "ZReviewTender is a tool for fetching app reviews from the App Store and Google Play Console and integrating them into your workflow."
+      alt: "網易雲音樂"
+      title: "網易雲音樂"
       target: "_blank"
   - link:
-      icon: "fa-brands fa-markdown"
-      text: "ZMediumToMarkdown <span class='link-button-text'>({{vars.GithubRepoStarsCountPlugin['ZhgChgLi/ZMediumToMarkdown']}} Stars)</span>"
-      url: "https://github.com/ZhgChgLi/ZMediumToMarkdown"
-      alt: "ZMediumToMarkdown is a powerful tool that allows you to effortlessly download and convert your Medium posts to Markdown format."
-      title: "ZMediumToMarkdown is a powerful tool that allows you to effortlessly download and convert your Medium posts to Markdown format."
+      icon: ""
+      text: "QQ 音樂"
+      url: "https://y.qq.com/n/ryqq_v2/singer/004ZyKRb1xYlav"
+      alt: "QQ 音樂"
+      title: "QQ 音樂"
       target: "_blank"
   - link:
-      icon: "fa-brands fa-github"
-      text: "linkyee <span class='link-button-text'>({{vars.GithubRepoStarsCountPlugin['ZhgChgLi/linkyee']}} Stars)</span>"
-      url: "https://github.com/ZhgChgLi/linkyee"
-      alt: "linkyee is a fully customized, open-source LinkTree alternative deployed directly on GitHub Pages."
-      title: "linkyee is a fully customized, open-source LinkTree alternative deployed directly on GitHub Pages."
+      icon: ""
+      text: "街聲 StreetVoice"
+      url: "https://streetvoice.com/ZooeyWonder/"
+      alt: "街聲 StreetVoice"
+      title: "街聲 StreetVoice"
       target: "_blank"
 
 # Footer text
