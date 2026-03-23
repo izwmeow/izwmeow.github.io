@@ -9,8 +9,8 @@
 
 /* Light mode (default) */
 body {
-  background-color: #ffffff;
-  color: #d4b8e1;
+  background-color: #d4b8e1;
+  color: #fdf9ff;
   display: flex;
   align-items: center;
   min-height: 100vh;
@@ -50,7 +50,7 @@ a {
   font-size: 16px;
   margin-bottom: 0px;
   line-height: 1.6;
-  color: #fdf9f9;
+  color: #fdf9ff;
 }
 
 .links {
