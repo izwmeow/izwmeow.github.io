@@ -70,7 +70,7 @@ socials:
       target: "_blank"
   - social:
       icon: "fa-brands fa-weibo"
-      url: "https://www.instagram.com/zooeywonder/"
+      url: "https://weibo.com/zooeywonderland"
       title: "微博"
       alt: "微博"
       target: "_blank"
@@ -155,7 +155,7 @@ links:
   - link:
       icon: ""
       text: "微博"
-      url: "https://www.instagram.com/zooeywonder/"
+      url: "https://weibo.com/zooeywonderland"
       alt: "微博"
       title: "微博"
       target: "_blank"
