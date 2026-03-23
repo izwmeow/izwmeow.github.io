@@ -105,20 +105,6 @@ links:
       target: "_blank"
   - link:
       #icon: ""
-      text: "佳佳唱片"
-      url: "https://www.ccr.com.tw/goods/412887"
-      alt: "佳佳唱片"
-      title: "佳佳唱片"
-      target: "_blank"
-  - link:
-      #icon: ""
-      text: "五大唱片"
-      url: "https://www.5music.com.tw/CDList-C.asp?cdno=443405678885"
-      alt: "五大唱片"
-      title: "五大唱片"
-      target: "_blank"
-  - link:
-      #icon: ""
       text: "Spotify"
       url: "https://open.spotify.com/artist/6VI0p0xTjBKKxQN8i8vGpD"
       alt: "Spotify"
@@ -172,6 +158,20 @@ links:
       url: "https://v.douyin.com/g2fycWlccXY/"
       alt: "抖音"
       title: "抖音"
+      target: "_blank"
+  - link:
+      #icon: ""
+      text: "佳佳唱片"
+      url: "https://www.ccr.com.tw/goods/412887"
+      alt: "佳佳唱片"
+      title: "佳佳唱片"
+      target: "_blank"
+  - link:
+      #icon: ""
+      text: "五大唱片"
+      url: "https://www.5music.com.tw/CDList-C.asp?cdno=443405678885"
+      alt: "五大唱片"
+      title: "五大唱片"
       target: "_blank"
   - link:
       #icon: ""
