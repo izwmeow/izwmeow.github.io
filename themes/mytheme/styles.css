@@ -3,7 +3,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Noto-sans TC';
+  font-family: Noto-sans TC;
 }
 
 /* Light mode (default) */
@@ -36,7 +36,7 @@ a {
   border-radius: 50%;
   object-fit: cover;
   margin-bottom: 15px;
-  border: 2px solid black;
+  border: 0px solid black;
 }
 
 .name {
@@ -57,11 +57,11 @@ a {
   flex-direction: column;
   gap: 15px;
   margin-top: 10px;
-  justify-content: center;
 }
 
 .link-button {
   display: inline-flex;
+  justify-content: center;
   align-items: center;
   gap: 10px;
   background-color: #f0f0f0;
@@ -92,7 +92,7 @@ a {
 
 .button-group {
   display: flex;
-  gap: 15px;
+  gap: 8px;
   margin-top: 25px;
 }
 
