@@ -148,7 +148,7 @@ a {
 /* Dark mode */
 @media (prefers-color-scheme: dark) {
   body {
-    background-color: #0d1117;
+    background: linear-gradient(180deg, #8d7ec1 0%, #c3b8ea 35%, #e0c8f8 65%, #e3d4f8 100%);
     color: #efe6f7;
   }
 
