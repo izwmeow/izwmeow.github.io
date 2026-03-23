@@ -3,7 +3,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Arial', sans-serif;
+  font-family: 'Noto-sans TC';
 }
 
 /* Light mode (default) */
@@ -57,6 +57,7 @@ a {
   flex-direction: column;
   gap: 15px;
   margin-top: 10px;
+  justify-content: center;
 }
 
 .link-button {
@@ -67,8 +68,8 @@ a {
   color: black;
   padding: 15px;
   border-radius: 8px;
-  font-size: 18px;
-  font-weight: 500;
+  font-size: 16px;
+  font-weight: 400;
   transition: background-color 0.3s, transform 0.2s;
 }
 
