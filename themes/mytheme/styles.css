@@ -62,7 +62,6 @@ a {
 .link-button {
   display: inline-flex;
   align-items: center;
-  text-align: center;
   gap: 10px;
   background-color: #f0f0f0;
   color: black;
